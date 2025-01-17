@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Globalization Challenges</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="leaflet.css">
+    <!script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"><!/script>
+        <script src="leaflet.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Globalization Challenges</h1>
+        <nav>
+            <button id="theme-commerce">Economy</button>
+            <button id="theme-commerce">People / Migration</button>
+            <button id="theme-commerce">Information Flux</button>
+            <button id="theme-environment">Environment</button>
+            <button id="theme-labor" onclick="location.href='global_layer.html'">Global Information</button>
+            <button id="quiz-button" onclick="location.href='quiz_kenya.html'">Quiz Faut trouver le Kenya</button>
+            <button id="theme-commerce" onclick="location.href='import_export_layer.html'">Imports & Exports</button>
+        </nav>
+        <!--<!h1>/*Importation and Exportation*/<!/h1>-->
+    </header>
+
+    <div id="map"></div>
+
+    <footer>
+        <p>Clic on countries to get info !</p>
+        <p>&copy; 2024 Globalization Challenges Project</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+header nav {
+    margin-top: 10px;
+}
+
+header nav button {
+    margin: 0 10px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #555;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+header nav button:hover {
+    background-color: #777;
+}
+
+#map {
+    height: 90vh; /* La carte occupe 90% de la hauteur */
+    width: 100%; /* La carte prend toute la largeur */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}

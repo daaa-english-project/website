@@ -1,0 +1,335 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "United States",
+                "ISO_A3": "USA",
+                "POPULATION": "331,000,000",
+                "GDP": "21.43 trillion USD",
+                "CAPITAL": "Washington, D.C.",
+                "AREA": "9,826,675"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "France",
+                "ISO_A3": "FRA",
+                "POPULATION": "67,000,000",
+                "GDP": "2.78 trillion USD",
+                "CAPITAL": "Paris",
+                "AREA": "551,695"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Kenya",
+                "ISO_A3": "KEN",
+                "POPULATION": "54,000,000",
+                "GDP": "95 billion USD",
+                "CAPITAL": "Nairobi",
+                "AREA": "580,367"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "China",
+                "ISO_A3": "CHN",
+                "POPULATION": "1,439,000,000",
+                "GDP": "14.72 trillion USD",
+                "CAPITAL": "Beijing",
+                "AREA": "9,596,961"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "India",
+                "ISO_A3": "IND",
+                "POPULATION": "1,366,000,000",
+                "GDP": "2.87 trillion USD",
+                "CAPITAL": "New Delhi",
+                "AREA": "3,287,263"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Germany",
+                "ISO_A3": "DEU",
+                "POPULATION": "83,000,000",
+                "GDP": "4.44 trillion USD",
+                "CAPITAL": "Berlin",
+                "AREA": "357,114"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "United Kingdom",
+                "ISO_A3": "GBR",
+                "POPULATION": "68,000,000",
+                "GDP": "3.12 trillion USD",
+                "CAPITAL": "London",
+                "AREA": "243,610"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Brazil",
+                "ISO_A3": "BRA",
+                "POPULATION": "213,000,000",
+                "GDP": "2.05 trillion USD",
+                "CAPITAL": "Brasília",
+                "AREA": "8,515,767"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Japan",
+                "ISO_A3": "JPN",
+                "POPULATION": "126,000,000",
+                "GDP": "5.08 trillion USD",
+                "CAPITAL": "Tokyo",
+                "AREA": "377,975"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Russia",
+                "ISO_A3": "RUS",
+                "POPULATION": "146,000,000",
+                "GDP": "1.48 trillion USD",
+                "CAPITAL": "Moscow",
+                "AREA": "17,098,246"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Italy",
+                "ISO_A3": "ITA",
+                "POPULATION": "60,000,000",
+                "GDP": "2.01 trillion USD",
+                "CAPITAL": "Rome",
+                "AREA": "301,340"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Canada",
+                "ISO_A3": "CAN",
+                "POPULATION": "38,000,000",
+                "GDP": "1.64 trillion USD",
+                "CAPITAL": "Ottawa",
+                "AREA": "9,984,670"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Australia",
+                "ISO_A3": "AUS",
+                "POPULATION": "25,000,000",
+                "GDP": "1.39 trillion USD",
+                "CAPITAL": "Canberra",
+                "AREA": "7,692,024"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "South Korea",
+                "ISO_A3": "KOR",
+                "POPULATION": "51,000,000",
+                "GDP": "1.64 trillion USD",
+                "CAPITAL": "Seoul",
+                "AREA": "100,210"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Mexico",
+                "ISO_A3": "MEX",
+                "POPULATION": "128,000,000",
+                "GDP": "1.27 trillion USD",
+                "CAPITAL": "Mexico City",
+                "AREA": "1,964,375"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Saudi Arabia",
+                "ISO_A3": "SAU",
+                "POPULATION": "35,000,000",
+                "GDP": "793 billion USD",
+                "CAPITAL": "Riyadh",
+                "AREA": "2,149,690"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Argentina",
+                "ISO_A3": "ARG",
+                "POPULATION": "45,000,000",
+                "GDP": "389 billion USD",
+                "CAPITAL": "Buenos Aires",
+                "AREA": "2,780,400"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Turkey",
+                "ISO_A3": "TUR",
+                "POPULATION": "84,000,000",
+                "GDP": "720 billion USD",
+                "CAPITAL": "Ankara",
+                "AREA": "783,356"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Indonesia",
+                "ISO_A3": "IDN",
+                "POPULATION": "273,000,000",
+                "GDP": "1.15 trillion USD",
+                "CAPITAL": "Jakarta",
+                "AREA": "1,904,569"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Netherlands",
+                "ISO_A3": "NLD",
+                "POPULATION": "17,000,000",
+                "GDP": "913 billion USD",
+                "CAPITAL": "Amsterdam",
+                "AREA": "41,543"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Switzerland",
+                "ISO_A3": "CHE",
+                "POPULATION": "8,600,000",
+                "GDP": "715 billion USD",
+                "CAPITAL": "Bern",
+                "AREA": "41,290"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Sweden",
+                "ISO_A3": "SWE",
+                "POPULATION": "10,000,000",
+                "GDP": "627 billion USD",
+                "CAPITAL": "Stockholm",
+                "AREA": "450,295"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "South Africa",
+                "ISO_A3": "ZAF",
+                "POPULATION": "59,000,000",
+                "GDP": "351 billion USD",
+                "CAPITAL": "Pretoria",
+                "AREA": "1,221,037"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Poland",
+                "ISO_A3": "POL",
+                "POPULATION": "38,000,000",
+                "GDP": "594 billion USD",
+                "CAPITAL": "Warsaw",
+                "AREA": "312,696"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Belgium",
+                "ISO_A3": "BEL",
+                "POPULATION": "11,500,000",
+                "GDP": "583 billion USD",
+                "CAPITAL": "Brussels",
+                "AREA": "30,528"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Norway",
+                "ISO_A3": "NOR",
+                "POPULATION": "5,400,000",
+                "GDP": "482 billion USD",
+                "CAPITAL": "Oslo",
+                "AREA": "385,207"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Austria",
+                "ISO_A3": "AUT",
+                "POPULATION": "9,000,000",
+                "GDP": "480 billion USD",
+                "CAPITAL": "Vienna",
+                "AREA": "83,871"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Thailand",
+                "ISO_A3": "THA",
+                "POPULATION": "69,000,000",
+                "GDP": "543 billion USD",
+                "CAPITAL": "Bangkok",
+                "AREA": "513,120"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Malaysia",
+                "ISO_A3": "MYS",
+                "POPULATION": "32,000,000",
+                "GDP": "336 billion USD",
+                "CAPITAL": "Kuala Lumpur",
+                "AREA": "330,803"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ADMIN": "Singapore",
+                "ISO_A3": "SGP",
+                "POPULATION": "5,700,000",
+                "GDP": "372 billion USD",
+                "CAPITAL": "Singapore",
+                "AREA": "710"
+            }
+        }
+    ]
+}

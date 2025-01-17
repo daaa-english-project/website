@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Spain",
+        "ISO_A3": "ESP",
+        "EXPORTS": "Clementines",
+        "IMPORTS": "Crude petroleum, cars, vehicle parts, packaged medicaments, refined petroleum"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "MAROCCO",
+        "ISO_A3": "MAR",
+        "EXPORTS": "Clementines",
+        "IMPORTS": "Crude petroleum, textile fibers, telecommunications equipment, gas and electricity, cars"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "China",
+        "ISO_A3": "CHN",
+        "EXPORTS": "Consumer electronics (smartphones, computers), computer equipment, machine tools, textiles, toys",
+        "IMPORTS": "Integrated circuits, crude petroleum, iron ore, cars, gold"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "United States",
+        "ISO_A3": "USA",
+        "EXPORTS": "Machinery, computer equipment, chemicals, motor vehicles, aircraft",
+        "IMPORTS": "Cars, computers, crude petroleum, packaged medicaments, broadcasting equipment"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Germany",
+        "ISO_A3": "DEU",
+        "EXPORTS": "Machine tools, motor vehicles, chemicals, pharmaceutical products",
+        "IMPORTS": "Cars, crude petroleum, packaged medicaments, vehicle parts, computers"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Japan",
+        "ISO_A3": "JPN",
+        "EXPORTS": "Motor vehicles, consumer electronics, computer equipment, machine tools",
+        "IMPORTS": "Crude petroleum, coal briquettes, natural gas, refined petroleum, cars"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "South Korea",
+        "ISO_A3": "KOR",
+        "EXPORTS": "Consumer electronics (smartphones, TVs), semiconductors, ships, automobiles",
+        "IMPORTS": "Crude petroleum, integrated circuits, petroleum gas, coal briquettes, refined petroleum"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Netherlands",
+        "ISO_A3": "NLD",
+        "EXPORTS": "Petroleum products, chemicals, machinery, food",
+        "IMPORTS": "Crude petroleum, refined petroleum, computers, cars, petroleum gas"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Belgium",
+        "ISO_A3": "BEL",
+        "EXPORTS": "Chemicals, diamonds, machinery, metals",
+        "IMPORTS": "Crude petroleum, cars, packaged medicaments, refined petroleum, diamonds"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Italy",
+        "ISO_A3": "ITA",
+        "EXPORTS": "Machinery, chemicals, motor vehicles, clothing",
+        "IMPORTS": "Crude petroleum, cars, packaged medicaments, refined petroleum, vehicle parts"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "France",
+        "ISO_A3": "FRA",
+        "EXPORTS": "Aircraft, pharmaceuticals, perfumes, wines",
+        "IMPORTS": "Crude petroleum, cars, aircraft, gas turbines, pharmaceuticals"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "United Kingdom",
+        "ISO_A3": "GBR",
+        "EXPORTS": "Chemicals, machinery, pharmaceuticals, motor vehicles",
+        "IMPORTS": "Cars, crude petroleum, gold, packaged medicaments, computers"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Brazil",
+        "ISO_A3": "BRA",
+        "EXPORTS": "Soy, iron ore, beef, coffee",
+        "IMPORTS": "Crude petroleum, refined petroleum, cars, integrated circuits, petroleum gas"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Russia",
+        "ISO_A3": "RUS",
+        "EXPORTS": "Oil, natural gas, metals (nickel, aluminum)",
+        "IMPORTS": "Cars, packaged medicaments, computers, telephones, vehicle parts"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Australia",
+        "ISO_A3": "AUS",
+        "EXPORTS": "Iron ore, coal, natural gas, wool",
+        "IMPORTS": "Crude petroleum, cars, refined petroleum, gold, computers"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "India",
+        "ISO_A3": "IND",
+        "EXPORTS": "Pharmaceuticals, software, textiles, rice",
+        "IMPORTS": "Crude petroleum, gold, coal briquettes, diamonds, telephones"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Indonesia",
+        "ISO_A3": "IDN",
+        "EXPORTS": "Palm oil, coal, natural rubber",
+        "IMPORTS": "Crude petroleum, refined petroleum, telephones, wheat, coal briquettes"
+      }
+    }
+  ]
+}
