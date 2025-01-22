@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.intro-section, .timeline-section, .trade-flows-section, .electric-cars-section, .timelapse-section {
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Timeline Styles */
+.timeline {
+    display: flex;
+    overflow-x: auto;
+    padding: 20px;
+    gap: 20px;
+    background-color: #f4f4f4;
+    align-items: center;
+}
+
+.timeline-event {
+    position: relative;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+    text-align: center;
+    width: 120px;
+}
+
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 90%;
+    max-width: 800px;
+    max-height: 80%;
+    overflow-y: auto;
+    text-align: center;
+}
+
+.popup img, .popup video {
+    max-width: 100%;
+}
+
+/* Timelapse Styles */
+.timelapse-container {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.timelapse-wrapper img {
+    max-width: 600px;
+    width: 100%;
+}
+
+.controls {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 10px;
+}
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.video-container iframe {
+    width: 50%; /* Limite la largeur à 50% de l'écran */
+    height: auto;
+    aspect-ratio: 16 / 9; /* Maintient le ratio 16:9 pour les vidéos YouTube */
+    max-width: 800px; /* Largeur maximale en pixels */
+    border-radius: 8px; /* Coins arrondis (optionnel) */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre pour un effet esthétique */
+}
+#popup-content {
+    text-align: left; /* Alignement à gauche */
+    text-justify: inter-word; /* Justification du texte */
+    font-family: Arial, sans-serif; /* Police lisible et propre */
+    line-height: 1.6; /* Espacement entre les lignes pour une meilleure lisibilité */
+    margin: 20px; /* Espacement intérieur pour éviter que le texte touche les bords */
+    word-wrap: break-word; /* Gestion des longs mots pour éviter les débordements */
+}

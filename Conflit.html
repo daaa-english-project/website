@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conflict Map</title>
+    
+    <link rel="stylesheet" href="Conflit.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<header>
+        <nav>
+            <button id="theme-commerce" onclick="location.href='index.html'">Home page</button>
+        </nav>
+    </header>
+<body>
+    
+<section>
+    <h1>Conflict Zones</h1>
+    <p>In today's world, tensions are increasingly fueled by competition over territorial claims, natural resources, and dependencies on essential commodities such as water and electricity. The ongoing challenges posed by climate change further exacerbate these issues, leading to greater instability. As resources become scarcer and environmental conditions worsen, conflicts often erupt, resulting in violence both within and between nations. These conflicts are not only a threat to peace but also contribute to significant migration flows as people are forced to flee their homes in search of safety and stability. The following four conflicts highlight the global tensions and their potential to create major migratory shifts.</p>
+</section>
+ <div id="map"></div>
+ <script src="Conflit.js"></script>
+
+<!-- Boîte modale pour les conflits -->
+<div id="conflictModal" class="modal">
+    <div class="modal-content">
+        <span id="closeModal" class="close">&times;</span>
+        <h2 id="modalTitle"></h2>
+        <img id="modalImage" src="" alt="Conflict Image" class="modal-image">
+        <p id="modalDescription"></p>
+         <p id="modalContent" class="modal-content-text"></p>
+        <div id="modalVideo" class="modal-video"></div>
+    </div>
+</div>
+
+
+    <footer>
+        <p>&copy; 2024 Conflict Insights</p>
+    </footer>
+
+   
+</body>
+</html>

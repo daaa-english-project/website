@@ -1,5 +1,5 @@
 // Initialisation de la carte
-const map = L.map('map').setView([20, 0], 2); // Centre global, zoom niveau 2
+const map = L.map('map').setView([30, 15], 2); // Centre global, zoom niveau 2
 
 // Ajout du fond de carte (tiles OpenStreetMap)
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -9,7 +9,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 // Charger les deux fichiers GeoJSON
 Promise.all([
     fetch('countries.geojson').then(response => response.json()),
-    fetch('import_export_layer.geojson').then(response => response.json())
+    fetch('global_layer_countries_info.geojson').then(response => response.json())
 ])
     .then(([geometryData, infoData]) => {
         // Créer un dictionnaire à partir de import_export_layer.geojson

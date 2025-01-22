@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ukraine Conflict",
+        "description": "Ongoing conflict in Ukraine since 2014, with escalations in 2022.",
+        "image": "image/Conflit/ukraine.png",
+        "content" :"The Ukraine conflict has resulted in mass migration as people flee the war-torn region. Additionally, Ukraine’s critical role as one of the world's largest wheat producers has led to global energy and food crises. This has deeply impacted international trade and heightened food insecurity worldwide.",
+        "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cdhLD0onUNw?si=8b9LD2UHkAMAGB7_\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "lien":null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.1656, 48.3794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South China Sea Dispute",
+        "description": "Territorial disputes involving China, Philippines, and other nations.",
+        "image": "image/Conflit/chine.png",
+        "content" :"The South China Sea dispute involves China asserting control over democratic regions like Hong Kong and Macau, raising concerns about Taiwan. This conflict stems from a desire to secure maritime passages and access to critical natural resources, including water and raw materials, further intensifying regional tensions.",
+        "video": null,
+        "lien": "https://www.wsj.com/video/south-china-sea-tensions-explained/DD8B0A06-73CE-4447-BA12-837E091C7414.html"
+    },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.0, 15.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ethiopia Tigray Conflict",
+        "description": "Conflict between the Ethiopian government and Tigray forces.",
+        "image": "image/Conflit/ethiopie.png",
+        "content" :"The Ethiopia Tigray conflict has created severe  water crises for downstream countries. It has also led to mass migration, with people seeking refuge from escalating tensions and resource scarcity, exacerbating regional instability. The aim of Ethiopian is to generate enough electricity through this dam to sustain its population.",
+        "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZHOV3BtqgAM?si=3gLg5XHz0ORwLKYi\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "lien":null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.489673, 9.145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "US-Mexico Border Issues",
+        "description": "Tensions surrounding immigration policies and border security.",
+        "image": "image/Conflit/quette.jpg",
+        "content" :"The US-Mexico border sees significant migration as individuals flee economic instability and insecurity in search of a better quality of life. These movements highlight broader socio-economic challenges and the desire for improved living conditions.",
+        "video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3GQd8_UCdi8?si=nF5d8rnqFQppNBnx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "lien":null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.42, 31.79]
+      }
+    }
+  ]
+}

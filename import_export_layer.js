@@ -1,5 +1,5 @@
 // Initialisation de la carte
-const map = L.map('map').setView([20, 0], 2); // Centre global, zoom niveau 2
+const map = L.map('map').setView([35, 15], 2); // Centre global, zoom niveau 2
 
 // Ajout du fond de carte (tiles OpenStreetMap)
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
