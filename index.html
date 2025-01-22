@@ -5,21 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Globalization Challenges</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="leaflet.css">
-    <!script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"><!/script>
-        <script src="leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css">
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+        
 </head>
 <body>
     <header>
         <h1>Globalization Challenges</h1>
         <nav>
-            <button id="theme-commerce">Economy</button>
-            <button id="theme-commerce">People / Migration</button>
-            <button id="theme-commerce">Information Flux</button>
-            <button id="theme-environment">Environment</button>
-            <button id="theme-labor" onclick="location.href='global_layer.html'">Global Information</button>
-            <button id="quiz-button" onclick="location.href='quiz_kenya.html'">Quiz Faut trouver le Kenya</button>
+            <button id="theme-commerce" onclick="location.href='commerce.html'">Trade</button>
             <button id="theme-commerce" onclick="location.href='import_export_layer.html'">Imports & Exports</button>
+            <button id="theme-labor" onclick="location.href='information_flux.html'">Information Flux</button>
+            <button id="theme-labor" onclick="location.href='migration.html'">Migration</button>
+            <button id="theme-labor" onclick="location.href='ecologie.html'">Environment</button>
+            <button id="theme-labor" onclick="location.href='Conflit.html'">Conflicts</button>
         </nav>
         <!--<!h1>/*Importation and Exportation*/<!/h1>-->
     </header>
@@ -28,9 +27,9 @@
 
     <footer>
         <p>Clic on countries to get info !</p>
-        <p>&copy; 2024 Globalization Challenges Project</p>
+        <p>&copy; 2024 Globalization Challenges Project - Anthony Soteras - Dorian Chanteloup - Antonin Magdinier - Antoine Carreau</p>
     </footer>
-
-    <script src="script.js"></script>
+    <script src="global_layer.js"></script>
+    <!--<script src="script.js"></script>-->
 </body>
 </html>
