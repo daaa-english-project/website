@@ -29,7 +29,7 @@ header nav button:hover {
 }
 
 #map {
-    height: 90vh; /* La carte occupe 90% de la hauteur */
+    height: 80vh; /* La carte occupe 80% de la hauteur */
     width: 100%; /* La carte prend toute la largeur */
 }
 
@@ -38,4 +38,9 @@ footer {
     padding: 10px;
     background-color: #333;
     color: white;
+}
+
+#space {
+    height: 10vh;
+    background-color: #333;
 }

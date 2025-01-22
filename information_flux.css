@@ -1,0 +1,65 @@
+/* Style général */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Section principale */
+.information-section {
+    padding: 20px;
+}
+
+/* Titres */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+/* Mise en page flexible pour chaque section */
+.flex-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+/* Contenu texte (à gauche) */
+.text-content {
+    flex: 1;
+    margin-right: 20px;
+    max-width: 40%;
+}
+
+/* Contenu image (à droite) */
+.image-content {
+    flex: 1;
+    max-width: 50%;
+}
+
+/* Style des images */
+.image-content img {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}

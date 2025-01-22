@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Migration Interactive Map</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="migration.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css">
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <button id="theme-commerce" onclick="location.href='index.html'">Home page</button>
+        </nav>
+
+        <h1>Migration Interactive Map</h1>
+        <p>Select a migration type to visualize data:</p>
+        <select id="migration-type" onchange="updateTimeline()">
+            <option value="refugeesorigin">Refugees by Origin Country</option>
+            <option value="refugeesdestination">Refugees by Host Country</option>
+            <option value="internal">Internally displaced people</option>
+            <option value="afghanistan">Emigrants from Afghanistan</option>
+            <option value="ukraine">Emigrants from Ukraine</option>
+            <option value="syria">Emigrants from Syria</option>
+        </select>
+    </header>
+
+
+    <div>
+        <label for="year-slider">Year:</label>
+        <input type="range" id="year-slider" min="1950" max="2023" step="1">
+        <span id="current-year">1950</span>
+    </div>
+
+    <div id="map" style="height: 600px;"></div>
+ <section id="migration-details">
+        <h2>Understanding Migration</h2>
+        <p>Migration is a complex phenomenon that occurs for various reasons, broadly categorized as:</p>
+        <ul>
+            <li><strong>Forced Migration:</strong> People fleeing due to conflicts, wars, natural disasters, or persecution. Examples include refugees and internally displaced people.</li>
+            <li><strong>Voluntary Migration:</strong> Movement driven by personal or economic aspirations, such as seeking better education or employment opportunities.</li>
+            <li><strong>Economic Migration:</strong> Migration motivated by the search for better job prospects and financial stability.</li>
+            <li><strong>Other Types:</strong> Includes environmental migration, caused by climate change impacts such as rising sea levels and desertification.</li>
+        </ul>
+
+        <h3>Key Terminology</h3>
+        <ul>
+            <li><strong>Migrant:</strong> A person who moves to another country or region, either temporarily or permanently, for various reasons.</li>
+            <li><strong>Refugee:</strong> A person forced to flee their home due to war, persecution, or violence, and recognized under international law.</li>
+            <li><strong>Asylum Seeker:</strong> Someone seeking international protection but whose refugee status has not yet been determined.</li>
+        </ul>
+
+        <h3>Reasons for Migration</h3>
+        <ul>
+            <li><strong>Conflict and Civil War:</strong> Examples include migration from Syria, Afghanistan, and Ukraine.</li>
+            <li><strong>Natural Disasters:</strong> Hurricanes, droughts, and floods displace millions each year.</li>
+            <li><strong>Economic Hardship:</strong> People move to escape poverty, unemployment, and lack of opportunities.</li>
+            <li><strong>Brain Drain:</strong> The emigration of skilled professionals from developing countries to developed ones, often for better opportunities.</li>
+        </ul>
+
+        <!-- Ajout de la vidéo centrée -->
+<section id="migration-video" style="text-align: center; margin: 20px 0;">
+    <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/vwSOds50Afk?si=EF4rSFG_4gwRwOx1" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+    </iframe>
+</section>
+
+
+        <h3>Remittances and Economic Impact</h3>
+        <p>Migrants often send money back to their home countries, significantly impacting their economies. India and China are notable examples of nations receiving high remittance volumes, with India leading globally. These funds support families, boost local economies, and contribute to national development.</p>
+        <ul>
+            <li><a href="image/migration/studentorigin.pdf" target="_blank">Student Origin Data</a></li>
+            <li><a href="image/migration/student.pdf" target="_blank">Student Migration Data</a></li>
+            <li><a href="image/migration/thuneoutflow.pdf" target="_blank">Remittance by Origin</a></li>
+            <li><a href="image/migration/thuneonflow.pdf" target="_blank">Remittance by Destination</a></li>
+            <li><a href="https://ourworldindata.org/great-global-redistributor-money-sent-brought-back-migrants-remittances" target="_blank">Explanation of Remittance</a></li>
+        <li><a href="https://www.migrationdataportal.org/international-data?t=2023&i=remit_paid" target="_blank">Migration portal data</a></li>
+        </ul>
+    </section>
+
+
+    <script src="migration.js"></script>
+
+    <div id="space"></div>
+
+</body>
+</html>

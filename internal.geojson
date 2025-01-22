@@ -1,0 +1,3093 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.709953,
+          33.93911
+        ]
+      },
+      "properties": {
+        "country": "Afghanistan",
+        "ISO_A3": "AFG",
+        "year": "2019",
+        "emigrants": 4191000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.709953,
+          33.93911
+        ]
+      },
+      "properties": {
+        "country": "Afghanistan",
+        "ISO_A3": "AFG",
+        "year": "2020",
+        "emigrants": 4761000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.709953,
+          33.93911
+        ]
+      },
+      "properties": {
+        "country": "Afghanistan",
+        "ISO_A3": "AFG",
+        "year": "2021",
+        "emigrants": 5704000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.709953,
+          33.93911
+        ]
+      },
+      "properties": {
+        "country": "Afghanistan",
+        "ISO_A3": "AFG",
+        "year": "2022",
+        "emigrants": 6612000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.709953,
+          33.93911
+        ]
+      },
+      "properties": {
+        "country": "Afghanistan",
+        "ISO_A3": "AFG",
+        "year": "2023",
+        "emigrants": 5689000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.038189,
+          40.069099
+        ]
+      },
+      "properties": {
+        "country": "Armenia",
+        "ISO_A3": "ARM",
+        "year": "2020",
+        "emigrants": 3500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.576927,
+          40.143105
+        ]
+      },
+      "properties": {
+        "country": "Azerbaijan",
+        "ISO_A3": "AZE",
+        "year": "2019",
+        "emigrants": 651140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.356331,
+          23.684994
+        ]
+      },
+      "properties": {
+        "country": "Bangladesh",
+        "ISO_A3": "BGD",
+        "year": "2019",
+        "emigrants": 514000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.356331,
+          23.684994
+        ]
+      },
+      "properties": {
+        "country": "Bangladesh",
+        "ISO_A3": "BGD",
+        "year": "2020",
+        "emigrants": 770000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.356331,
+          23.684994
+        ]
+      },
+      "properties": {
+        "country": "Bangladesh",
+        "ISO_A3": "BGD",
+        "year": "2021",
+        "emigrants": 469000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.356331,
+          23.684994
+        ]
+      },
+      "properties": {
+        "country": "Bangladesh",
+        "ISO_A3": "BGD",
+        "year": "2022",
+        "emigrants": 434600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.356331,
+          23.684994
+        ]
+      },
+      "properties": {
+        "country": "Bangladesh",
+        "ISO_A3": "BGD",
+        "year": "2023",
+        "emigrants": 481000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.315834,
+          9.30769
+        ]
+      },
+      "properties": {
+        "country": "Benin",
+        "ISO_A3": "BEN",
+        "year": "2020",
+        "emigrants": 6000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.315834,
+          9.30769
+        ]
+      },
+      "properties": {
+        "country": "Benin",
+        "ISO_A3": "BEN",
+        "year": "2022",
+        "emigrants": 8100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.588653,
+          -16.290154
+        ]
+      },
+      "properties": {
+        "country": "Bolivia",
+        "ISO_A3": "BOL",
+        "year": "2019",
+        "emigrants": 1931
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.679076,
+          43.915886
+        ]
+      },
+      "properties": {
+        "country": "Bosnia and Herzegovina",
+        "ISO_A3": "BIH",
+        "year": "2022",
+        "emigrants": 91058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92528,
+          -14.235004
+        ]
+      },
+      "properties": {
+        "country": "Brazil",
+        "ISO_A3": "BRA",
+        "year": "2021",
+        "emigrants": 47000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92528,
+          -14.235004
+        ]
+      },
+      "properties": {
+        "country": "Brazil",
+        "ISO_A3": "BRA",
+        "year": "2022",
+        "emigrants": 49600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.92528,
+          -14.235004
+        ]
+      },
+      "properties": {
+        "country": "Brazil",
+        "ISO_A3": "BRA",
+        "year": "2023",
+        "emigrants": 32000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.561593,
+          12.238333
+        ]
+      },
+      "properties": {
+        "country": "Burkina Faso",
+        "ISO_A3": "BFA",
+        "year": "2020",
+        "emigrants": 1095000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918886,
+          -3.373056
+        ]
+      },
+      "properties": {
+        "country": "Burundi",
+        "ISO_A3": "BDI",
+        "year": "2019",
+        "emigrants": 35000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918886,
+          -3.373056
+        ]
+      },
+      "properties": {
+        "country": "Burundi",
+        "ISO_A3": "BDI",
+        "year": "2020",
+        "emigrants": 98000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918886,
+          -3.373056
+        ]
+      },
+      "properties": {
+        "country": "Burundi",
+        "ISO_A3": "BDI",
+        "year": "2021",
+        "emigrants": 113000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918886,
+          -3.373056
+        ]
+      },
+      "properties": {
+        "country": "Burundi",
+        "ISO_A3": "BDI",
+        "year": "2022",
+        "emigrants": 75500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.918886,
+          -3.373056
+        ]
+      },
+      "properties": {
+        "country": "Burundi",
+        "ISO_A3": "BDI",
+        "year": "2023",
+        "emigrants": 74100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.354722,
+          7.369722
+        ]
+      },
+      "properties": {
+        "country": "Cameroon",
+        "ISO_A3": "CMR",
+        "year": "2019",
+        "emigrants": 997000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.354722,
+          7.369722
+        ]
+      },
+      "properties": {
+        "country": "Cameroon",
+        "ISO_A3": "CMR",
+        "year": "2020",
+        "emigrants": 1033000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.354722,
+          7.369722
+        ]
+      },
+      "properties": {
+        "country": "Cameroon",
+        "ISO_A3": "CMR",
+        "year": "2021",
+        "emigrants": 937000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.354722,
+          7.369722
+        ]
+      },
+      "properties": {
+        "country": "Cameroon",
+        "ISO_A3": "CMR",
+        "year": "2022",
+        "emigrants": 1010000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.354722,
+          7.369722
+        ]
+      },
+      "properties": {
+        "country": "Cameroon",
+        "ISO_A3": "CMR",
+        "year": "2023",
+        "emigrants": 1075000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.939444,
+          6.611111
+        ]
+      },
+      "properties": {
+        "country": "Central African Republic",
+        "ISO_A3": null,
+        "year": "2019",
+        "emigrants": 687000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.939444,
+          6.611111
+        ]
+      },
+      "properties": {
+        "country": "Central African Republic",
+        "ISO_A3": null,
+        "year": "2020",
+        "emigrants": 686200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.939444,
+          6.611111
+        ]
+      },
+      "properties": {
+        "country": "Central African Republic",
+        "ISO_A3": null,
+        "year": "2021",
+        "emigrants": 728000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.732207,
+          15.454166
+        ]
+      },
+      "properties": {
+        "country": "Chad",
+        "ISO_A3": "TCD",
+        "year": "2019",
+        "emigrants": 203000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.732207,
+          15.454166
+        ]
+      },
+      "properties": {
+        "country": "Chad",
+        "ISO_A3": "TCD",
+        "year": "2020",
+        "emigrants": 342680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.732207,
+          15.454166
+        ]
+      },
+      "properties": {
+        "country": "Chad",
+        "ISO_A3": "TCD",
+        "year": "2021",
+        "emigrants": 421000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.732207,
+          15.454166
+        ]
+      },
+      "properties": {
+        "country": "Chad",
+        "ISO_A3": "TCD",
+        "year": "2023",
+        "emigrants": 538000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.297333,
+          4.570868
+        ]
+      },
+      "properties": {
+        "country": "Colombia",
+        "ISO_A3": "COL",
+        "year": "2019",
+        "emigrants": 5577600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.297333,
+          4.570868
+        ]
+      },
+      "properties": {
+        "country": "Colombia",
+        "ISO_A3": "COL",
+        "year": "2020",
+        "emigrants": 4943000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.297333,
+          4.570868
+        ]
+      },
+      "properties": {
+        "country": "Colombia",
+        "ISO_A3": "COL",
+        "year": "2021",
+        "emigrants": 5236400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.297333,
+          4.570868
+        ]
+      },
+      "properties": {
+        "country": "Colombia",
+        "ISO_A3": "COL",
+        "year": "2022",
+        "emigrants": 4807000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827659,
+          -0.228021
+        ]
+      },
+      "properties": {
+        "country": "Congo",
+        "ISO_A3": null,
+        "year": "2019",
+        "emigrants": 241000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827659,
+          -0.228021
+        ]
+      },
+      "properties": {
+        "country": "Congo",
+        "ISO_A3": null,
+        "year": "2021",
+        "emigrants": 134100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.827659,
+          -0.228021
+        ]
+      },
+      "properties": {
+        "country": "Congo",
+        "ISO_A3": null,
+        "year": "2022",
+        "emigrants": 228000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.547079,
+          7.539989
+        ]
+      },
+      "properties": {
+        "country": "Cote d'Ivoire",
+        "ISO_A3": null,
+        "year": "2019",
+        "emigrants": 302440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.547079,
+          7.539989
+        ]
+      },
+      "properties": {
+        "country": "Cote d'Ivoire",
+        "ISO_A3": null,
+        "year": "2020",
+        "emigrants": 308070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.429859,
+          35.126413
+        ]
+      },
+      "properties": {
+        "country": "Cyprus",
+        "ISO_A3": "CYP",
+        "year": "2021",
+        "emigrants": 242059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.802498,
+          26.820553
+        ]
+      },
+      "properties": {
+        "country": "Egypt",
+        "ISO_A3": "EGY",
+        "year": "2020",
+        "emigrants": 11600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.782334,
+          9.145
+        ]
+      },
+      "properties": {
+        "country": "Ethiopia",
+        "ISO_A3": "ETH",
+        "year": "2019",
+        "emigrants": 1714000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.782334,
+          9.145
+        ]
+      },
+      "properties": {
+        "country": "Ethiopia",
+        "ISO_A3": "ETH",
+        "year": "2020",
+        "emigrants": 2693000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.782334,
+          9.145
+        ]
+      },
+      "properties": {
+        "country": "Ethiopia",
+        "ISO_A3": "ETH",
+        "year": "2021",
+        "emigrants": 4168000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.782334,
+          9.145
+        ]
+      },
+      "properties": {
+        "country": "Ethiopia",
+        "ISO_A3": "ETH",
+        "year": "2022",
+        "emigrants": 4569000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.782334,
+          9.145
+        ]
+      },
+      "properties": {
+        "country": "Ethiopia",
+        "ISO_A3": "ETH",
+        "year": "2023",
+        "emigrants": 3733000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.356891,
+          42.315407
+        ]
+      },
+      "properties": {
+        "country": "Georgia",
+        "ISO_A3": "GEO",
+        "year": "2020",
+        "emigrants": 304010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.356891,
+          42.315407
+        ]
+      },
+      "properties": {
+        "country": "Georgia",
+        "ISO_A3": "GEO",
+        "year": "2021",
+        "emigrants": 333000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.356891,
+          42.315407
+        ]
+      },
+      "properties": {
+        "country": "Georgia",
+        "ISO_A3": "GEO",
+        "year": "2022",
+        "emigrants": 339000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.356891,
+          42.315407
+        ]
+      },
+      "properties": {
+        "country": "Georgia",
+        "ISO_A3": "GEO",
+        "year": "2023",
+        "emigrants": 350000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.023194,
+          7.946527
+        ]
+      },
+      "properties": {
+        "country": "Ghana",
+        "ISO_A3": "GHA",
+        "year": "2023",
+        "emigrants": 42800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230759,
+          15.783471
+        ]
+      },
+      "properties": {
+        "country": "Guatemala",
+        "ISO_A3": "GTM",
+        "year": "2019",
+        "emigrants": 243300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230759,
+          15.783471
+        ]
+      },
+      "properties": {
+        "country": "Guatemala",
+        "ISO_A3": "GTM",
+        "year": "2021",
+        "emigrants": 264000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230759,
+          15.783471
+        ]
+      },
+      "properties": {
+        "country": "Guatemala",
+        "ISO_A3": "GTM",
+        "year": "2022",
+        "emigrants": 249900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.285215,
+          18.971187
+        ]
+      },
+      "properties": {
+        "country": "Haiti",
+        "ISO_A3": "HTI",
+        "year": "2019",
+        "emigrants": 53100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.285215,
+          18.971187
+        ]
+      },
+      "properties": {
+        "country": "Haiti",
+        "ISO_A3": "HTI",
+        "year": "2020",
+        "emigrants": 8710
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.285215,
+          18.971187
+        ]
+      },
+      "properties": {
+        "country": "Haiti",
+        "ISO_A3": "HTI",
+        "year": "2021",
+        "emigrants": 237000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.285215,
+          18.971187
+        ]
+      },
+      "properties": {
+        "country": "Haiti",
+        "ISO_A3": "HTI",
+        "year": "2022",
+        "emigrants": 195000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.285215,
+          18.971187
+        ]
+      },
+      "properties": {
+        "country": "Haiti",
+        "ISO_A3": "HTI",
+        "year": "2023",
+        "emigrants": 313600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.241905,
+          15.199999
+        ]
+      },
+      "properties": {
+        "country": "Honduras",
+        "ISO_A3": "HND",
+        "year": "2021",
+        "emigrants": 247030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.241905,
+          15.199999
+        ]
+      },
+      "properties": {
+        "country": "Honduras",
+        "ISO_A3": "HND",
+        "year": "2022",
+        "emigrants": 250900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.96288,
+          20.593684
+        ]
+      },
+      "properties": {
+        "country": "India",
+        "ISO_A3": "IND",
+        "year": "2019",
+        "emigrants": 596000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.96288,
+          20.593684
+        ]
+      },
+      "properties": {
+        "country": "India",
+        "ISO_A3": "IND",
+        "year": "2020",
+        "emigrants": 1406000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.96288,
+          20.593684
+        ]
+      },
+      "properties": {
+        "country": "India",
+        "ISO_A3": "IND",
+        "year": "2021",
+        "emigrants": 528000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.96288,
+          20.593684
+        ]
+      },
+      "properties": {
+        "country": "India",
+        "ISO_A3": "IND",
+        "year": "2022",
+        "emigrants": 579000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.96288,
+          20.593684
+        ]
+      },
+      "properties": {
+        "country": "India",
+        "ISO_A3": "IND",
+        "year": "2023",
+        "emigrants": 703000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.921327,
+          -0.789275
+        ]
+      },
+      "properties": {
+        "country": "Indonesia",
+        "ISO_A3": "IDN",
+        "year": "2019",
+        "emigrants": 141000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.921327,
+          -0.789275
+        ]
+      },
+      "properties": {
+        "country": "Indonesia",
+        "ISO_A3": "IDN",
+        "year": "2020",
+        "emigrants": 202000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.921327,
+          -0.789275
+        ]
+      },
+      "properties": {
+        "country": "Indonesia",
+        "ISO_A3": "IDN",
+        "year": "2021",
+        "emigrants": 228000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.921327,
+          -0.789275
+        ]
+      },
+      "properties": {
+        "country": "Indonesia",
+        "ISO_A3": "IDN",
+        "year": "2022",
+        "emigrants": 137000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.921327,
+          -0.789275
+        ]
+      },
+      "properties": {
+        "country": "Indonesia",
+        "ISO_A3": "IDN",
+        "year": "2023",
+        "emigrants": 64000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.679291,
+          33.223191
+        ]
+      },
+      "properties": {
+        "country": "Iraq",
+        "ISO_A3": "IRQ",
+        "year": "2019",
+        "emigrants": 1533320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.679291,
+          33.223191
+        ]
+      },
+      "properties": {
+        "country": "Iraq",
+        "ISO_A3": "IRQ",
+        "year": "2021",
+        "emigrants": 1207000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.679291,
+          33.223191
+        ]
+      },
+      "properties": {
+        "country": "Iraq",
+        "ISO_A3": "IRQ",
+        "year": "2022",
+        "emigrants": 1238000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.679291,
+          33.223191
+        ]
+      },
+      "properties": {
+        "country": "Iraq",
+        "ISO_A3": "IRQ",
+        "year": "2023",
+        "emigrants": 1259000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.923684,
+          48.019573
+        ]
+      },
+      "properties": {
+        "country": "Kazakhstan",
+        "ISO_A3": "KAZ",
+        "year": "2022",
+        "emigrants": 134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.906193,
+          -1.286389
+        ]
+      },
+      "properties": {
+        "country": "Kenya",
+        "ISO_A3": "KEN",
+        "year": "2019",
+        "emigrants": 163400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.906193,
+          -1.286389
+        ]
+      },
+      "properties": {
+        "country": "Kenya",
+        "ISO_A3": "KEN",
+        "year": "2020",
+        "emigrants": 394000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.906193,
+          -1.286389
+        ]
+      },
+      "properties": {
+        "country": "Kenya",
+        "ISO_A3": "KEN",
+        "year": "2021",
+        "emigrants": 244000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.906193,
+          -1.286389
+        ]
+      },
+      "properties": {
+        "country": "Kenya",
+        "ISO_A3": "KEN",
+        "year": "2022",
+        "emigrants": 403000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.906193,
+          -1.286389
+        ]
+      },
+      "properties": {
+        "country": "Kenya",
+        "ISO_A3": "KEN",
+        "year": "2023",
+        "emigrants": 171000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.766098,
+          41.20438
+        ]
+      },
+      "properties": {
+        "country": "Kyrgyzstan",
+        "ISO_A3": "KGZ",
+        "year": "2022",
+        "emigrants": 4004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.862285,
+          33.854721
+        ]
+      },
+      "properties": {
+        "country": "Lebanon",
+        "ISO_A3": "LBN",
+        "year": "2019",
+        "emigrants": 7190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.869107,
+          -18.766947
+        ]
+      },
+      "properties": {
+        "country": "Madagascar",
+        "ISO_A3": "MDG",
+        "year": "2019",
+        "emigrants": 20500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.869107,
+          -18.766947
+        ]
+      },
+      "properties": {
+        "country": "Madagascar",
+        "ISO_A3": "MDG",
+        "year": "2020",
+        "emigrants": 48500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.869107,
+          -18.766947
+        ]
+      },
+      "properties": {
+        "country": "Madagascar",
+        "ISO_A3": "MDG",
+        "year": "2021",
+        "emigrants": 64800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.869107,
+          -18.766947
+        ]
+      },
+      "properties": {
+        "country": "Madagascar",
+        "ISO_A3": "MDG",
+        "year": "2022",
+        "emigrants": 70800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.996166,
+          17.570692
+        ]
+      },
+      "properties": {
+        "country": "Mali",
+        "ISO_A3": "MLI",
+        "year": "2019",
+        "emigrants": 213400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.996166,
+          17.570692
+        ]
+      },
+      "properties": {
+        "country": "Mali",
+        "ISO_A3": "MLI",
+        "year": "2020",
+        "emigrants": 332700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.996166,
+          17.570692
+        ]
+      },
+      "properties": {
+        "country": "Mali",
+        "ISO_A3": "MLI",
+        "year": "2021",
+        "emigrants": 350000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.996166,
+          17.570692
+        ]
+      },
+      "properties": {
+        "country": "Mali",
+        "ISO_A3": "MLI",
+        "year": "2022",
+        "emigrants": 412000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.996166,
+          17.570692
+        ]
+      },
+      "properties": {
+        "country": "Mali",
+        "ISO_A3": "MLI",
+        "year": "2023",
+        "emigrants": 352000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.552784,
+          23.634501
+        ]
+      },
+      "properties": {
+        "country": "Mexico",
+        "ISO_A3": "MEX",
+        "year": "2020",
+        "emigrants": 456000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.552784,
+          23.634501
+        ]
+      },
+      "properties": {
+        "country": "Mexico",
+        "ISO_A3": "MEX",
+        "year": "2021",
+        "emigrants": 379023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.552784,
+          23.634501
+        ]
+      },
+      "properties": {
+        "country": "Mexico",
+        "ISO_A3": "MEX",
+        "year": "2022",
+        "emigrants": 389600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.529562,
+          -18.665695
+        ]
+      },
+      "properties": {
+        "country": "Mozambique",
+        "ISO_A3": "MOZ",
+        "year": "2019",
+        "emigrants": 221000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.529562,
+          -18.665695
+        ]
+      },
+      "properties": {
+        "country": "Mozambique",
+        "ISO_A3": "MOZ",
+        "year": "2020",
+        "emigrants": 776000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.529562,
+          -18.665695
+        ]
+      },
+      "properties": {
+        "country": "Mozambique",
+        "ISO_A3": "MOZ",
+        "year": "2021",
+        "emigrants": 873000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.529562,
+          -18.665695
+        ]
+      },
+      "properties": {
+        "country": "Mozambique",
+        "ISO_A3": "MOZ",
+        "year": "2022",
+        "emigrants": 1157000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.529562,
+          -18.665695
+        ]
+      },
+      "properties": {
+        "country": "Mozambique",
+        "ISO_A3": "MOZ",
+        "year": "2023",
+        "emigrants": 707000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.956223,
+          21.913965
+        ]
+      },
+      "properties": {
+        "country": "Myanmar",
+        "ISO_A3": null,
+        "year": "2019",
+        "emigrants": 498000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.956223,
+          21.913965
+        ]
+      },
+      "properties": {
+        "country": "Myanmar",
+        "ISO_A3": null,
+        "year": "2020",
+        "emigrants": 509600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.956223,
+          21.913965
+        ]
+      },
+      "properties": {
+        "country": "Myanmar",
+        "ISO_A3": null,
+        "year": "2021",
+        "emigrants": 650400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.956223,
+          21.913965
+        ]
+      },
+      "properties": {
+        "country": "Myanmar",
+        "ISO_A3": null,
+        "year": "2022",
+        "emigrants": 1501000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.956223,
+          21.913965
+        ]
+      },
+      "properties": {
+        "country": "Myanmar",
+        "ISO_A3": null,
+        "year": "2023",
+        "emigrants": 2860000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.207229,
+          12.865416
+        ]
+      },
+      "properties": {
+        "country": "Nicaragua",
+        "ISO_A3": "NIC",
+        "year": "2020",
+        "emigrants": 9177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.207229,
+          12.865416
+        ]
+      },
+      "properties": {
+        "country": "Nicaragua",
+        "ISO_A3": "NIC",
+        "year": "2022",
+        "emigrants": 1111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.081666,
+          17.607789
+        ]
+      },
+      "properties": {
+        "country": "Niger",
+        "ISO_A3": "NER",
+        "year": "2019",
+        "emigrants": 316000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.081666,
+          17.607789
+        ]
+      },
+      "properties": {
+        "country": "Niger",
+        "ISO_A3": "NER",
+        "year": "2020",
+        "emigrants": 524000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.081666,
+          17.607789
+        ]
+      },
+      "properties": {
+        "country": "Niger",
+        "ISO_A3": "NER",
+        "year": "2021",
+        "emigrants": 264000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.081666,
+          17.607789
+        ]
+      },
+      "properties": {
+        "country": "Niger",
+        "ISO_A3": "NER",
+        "year": "2022",
+        "emigrants": 377100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.081666,
+          17.607789
+        ]
+      },
+      "properties": {
+        "country": "Niger",
+        "ISO_A3": "NER",
+        "year": "2023",
+        "emigrants": 379000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675277,
+          9.081999
+        ]
+      },
+      "properties": {
+        "country": "Nigeria",
+        "ISO_A3": "NGA",
+        "year": "2019",
+        "emigrants": 2731000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675277,
+          9.081999
+        ]
+      },
+      "properties": {
+        "country": "Nigeria",
+        "ISO_A3": "NGA",
+        "year": "2020",
+        "emigrants": 2873000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675277,
+          9.081999
+        ]
+      },
+      "properties": {
+        "country": "Nigeria",
+        "ISO_A3": "NGA",
+        "year": "2021",
+        "emigrants": 3335000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675277,
+          9.081999
+        ]
+      },
+      "properties": {
+        "country": "Nigeria",
+        "ISO_A3": "NGA",
+        "year": "2022",
+        "emigrants": 4500000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675277,
+          9.081999
+        ]
+      },
+      "properties": {
+        "country": "Nigeria",
+        "ISO_A3": "NGA",
+        "year": "2023",
+        "emigrants": 3421000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.345116,
+          30.375321
+        ]
+      },
+      "properties": {
+        "country": "Pakistan",
+        "ISO_A3": "PAK",
+        "year": "2019",
+        "emigrants": 120000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.345116,
+          30.375321
+        ]
+      },
+      "properties": {
+        "country": "Pakistan",
+        "ISO_A3": "PAK",
+        "year": "2020",
+        "emigrants": 906000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.345116,
+          30.375321
+        ]
+      },
+      "properties": {
+        "country": "Pakistan",
+        "ISO_A3": "PAK",
+        "year": "2021",
+        "emigrants": 174000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.345116,
+          30.375321
+        ]
+      },
+      "properties": {
+        "country": "Pakistan",
+        "ISO_A3": "PAK",
+        "year": "2022",
+        "emigrants": 1043000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.345116,
+          30.375321
+        ]
+      },
+      "properties": {
+        "country": "Pakistan",
+        "ISO_A3": "PAK",
+        "year": "2023",
+        "emigrants": 1239000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.233154,
+          31.952162
+        ]
+      },
+      "properties": {
+        "country": "Palestine",
+        "ISO_A3": null,
+        "year": "2020",
+        "emigrants": 131010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95555,
+          -6.314993
+        ]
+      },
+      "properties": {
+        "country": "Papua New Guinea",
+        "ISO_A3": "PNG",
+        "year": "2019",
+        "emigrants": 25000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95555,
+          -6.314993
+        ]
+      },
+      "properties": {
+        "country": "Papua New Guinea",
+        "ISO_A3": "PNG",
+        "year": "2020",
+        "emigrants": 16700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95555,
+          -6.314993
+        ]
+      },
+      "properties": {
+        "country": "Papua New Guinea",
+        "ISO_A3": "PNG",
+        "year": "2021",
+        "emigrants": 41000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95555,
+          -6.314993
+        ]
+      },
+      "properties": {
+        "country": "Papua New Guinea",
+        "ISO_A3": "PNG",
+        "year": "2022",
+        "emigrants": 85190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95555,
+          -6.314993
+        ]
+      },
+      "properties": {
+        "country": "Papua New Guinea",
+        "ISO_A3": "PNG",
+        "year": "2023",
+        "emigrants": 94500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.015152,
+          -9.189967
+        ]
+      },
+      "properties": {
+        "country": "Peru",
+        "ISO_A3": "PER",
+        "year": "2019",
+        "emigrants": 65800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.015152,
+          -9.189967
+        ]
+      },
+      "properties": {
+        "country": "Peru",
+        "ISO_A3": "PER",
+        "year": "2020",
+        "emigrants": 66800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.015152,
+          -9.189967
+        ]
+      },
+      "properties": {
+        "country": "Peru",
+        "ISO_A3": "PER",
+        "year": "2022",
+        "emigrants": 102000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774017,
+          12.879721
+        ]
+      },
+      "properties": {
+        "country": "Philippines",
+        "ISO_A3": "PHL",
+        "year": "2019",
+        "emigrants": 363000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774017,
+          12.879721
+        ]
+      },
+      "properties": {
+        "country": "Philippines",
+        "ISO_A3": "PHL",
+        "year": "2020",
+        "emigrants": 288000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774017,
+          12.879721
+        ]
+      },
+      "properties": {
+        "country": "Philippines",
+        "ISO_A3": "PHL",
+        "year": "2021",
+        "emigrants": 808000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774017,
+          12.879721
+        ]
+      },
+      "properties": {
+        "country": "Philippines",
+        "ISO_A3": "PHL",
+        "year": "2022",
+        "emigrants": 635000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774017,
+          12.879721
+        ]
+      },
+      "properties": {
+        "country": "Philippines",
+        "ISO_A3": "PHL",
+        "year": "2023",
+        "emigrants": 404000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.318756,
+          61.52401
+        ]
+      },
+      "properties": {
+        "country": "Russia",
+        "ISO_A3": "RUS",
+        "year": "2019",
+        "emigrants": 5300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.318756,
+          61.52401
+        ]
+      },
+      "properties": {
+        "country": "Russia",
+        "ISO_A3": "RUS",
+        "year": "2020",
+        "emigrants": 1220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.318756,
+          61.52401
+        ]
+      },
+      "properties": {
+        "country": "Russia",
+        "ISO_A3": "RUS",
+        "year": "2021",
+        "emigrants": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.318756,
+          61.52401
+        ]
+      },
+      "properties": {
+        "country": "Russia",
+        "ISO_A3": "RUS",
+        "year": "2022",
+        "emigrants": 7228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.318756,
+          61.52401
+        ]
+      },
+      "properties": {
+        "country": "Russia",
+        "ISO_A3": "RUS",
+        "year": "2023",
+        "emigrants": 61200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.452362,
+          14.497401
+        ]
+      },
+      "properties": {
+        "country": "Senegal",
+        "ISO_A3": "SEN",
+        "year": "2019",
+        "emigrants": 8540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.452362,
+          14.497401
+        ]
+      },
+      "properties": {
+        "country": "Senegal",
+        "ISO_A3": "SEN",
+        "year": "2020",
+        "emigrants": 10400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.452362,
+          14.497401
+        ]
+      },
+      "properties": {
+        "country": "Senegal",
+        "ISO_A3": "SEN",
+        "year": "2022",
+        "emigrants": 8860
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.779889,
+          8.460555
+        ]
+      },
+      "properties": {
+        "country": "Sierra Leone",
+        "ISO_A3": "SLE",
+        "year": "2019",
+        "emigrants": 8000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.156194,
+          -9.64571
+        ]
+      },
+      "properties": {
+        "country": "Solomon Islands",
+        "ISO_A3": "SLB",
+        "year": "2022",
+        "emigrants": 1011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.156194,
+          -9.64571
+        ]
+      },
+      "properties": {
+        "country": "Solomon Islands",
+        "ISO_A3": "SLB",
+        "year": "2023",
+        "emigrants": 1640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.199616,
+          5.152149
+        ]
+      },
+      "properties": {
+        "country": "Somalia",
+        "ISO_A3": "SOM",
+        "year": "2019",
+        "emigrants": 2648650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.199616,
+          5.152149
+        ]
+      },
+      "properties": {
+        "country": "Somalia",
+        "ISO_A3": "SOM",
+        "year": "2020",
+        "emigrants": 3046000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.937506,
+          -30.559482
+        ]
+      },
+      "properties": {
+        "country": "South Africa",
+        "ISO_A3": "ZAF",
+        "year": "2023",
+        "emigrants": 6620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.306978,
+          7.862685
+        ]
+      },
+      "properties": {
+        "country": "South Sudan",
+        "ISO_A3": "SSD",
+        "year": "2019",
+        "emigrants": 1585000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.306978,
+          7.862685
+        ]
+      },
+      "properties": {
+        "country": "South Sudan",
+        "ISO_A3": "SSD",
+        "year": "2020",
+        "emigrants": 1542000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.306978,
+          7.862685
+        ]
+      },
+      "properties": {
+        "country": "South Sudan",
+        "ISO_A3": "SSD",
+        "year": "2021",
+        "emigrants": 1896000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.306978,
+          7.862685
+        ]
+      },
+      "properties": {
+        "country": "South Sudan",
+        "ISO_A3": "SSD",
+        "year": "2022",
+        "emigrants": 2140000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.306978,
+          7.862685
+        ]
+      },
+      "properties": {
+        "country": "South Sudan",
+        "ISO_A3": "SSD",
+        "year": "2023",
+        "emigrants": 1684000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.771797,
+          7.873054
+        ]
+      },
+      "properties": {
+        "country": "Sri Lanka",
+        "ISO_A3": "LKA",
+        "year": "2019",
+        "emigrants": 31700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.771797,
+          7.873054
+        ]
+      },
+      "properties": {
+        "country": "Sri Lanka",
+        "ISO_A3": "LKA",
+        "year": "2020",
+        "emigrants": 28700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.771797,
+          7.873054
+        ]
+      },
+      "properties": {
+        "country": "Sri Lanka",
+        "ISO_A3": "LKA",
+        "year": "2021",
+        "emigrants": 12033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.771797,
+          7.873054
+        ]
+      },
+      "properties": {
+        "country": "Sri Lanka",
+        "ISO_A3": "LKA",
+        "year": "2022",
+        "emigrants": 12023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.771797,
+          7.873054
+        ]
+      },
+      "properties": {
+        "country": "Sri Lanka",
+        "ISO_A3": "LKA",
+        "year": "2023",
+        "emigrants": 13400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217636,
+          12.862807
+        ]
+      },
+      "properties": {
+        "country": "Sudan",
+        "ISO_A3": "SDN",
+        "year": "2019",
+        "emigrants": 2406000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217636,
+          12.862807
+        ]
+      },
+      "properties": {
+        "country": "Sudan",
+        "ISO_A3": "SDN",
+        "year": "2020",
+        "emigrants": 2730000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217636,
+          12.862807
+        ]
+      },
+      "properties": {
+        "country": "Sudan",
+        "ISO_A3": "SDN",
+        "year": "2021",
+        "emigrants": 3260000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.217636,
+          12.862807
+        ]
+      },
+      "properties": {
+        "country": "Sudan",
+        "ISO_A3": "SDN",
+        "year": "2022",
+        "emigrants": 3780000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.996815,
+          34.802075
+        ]
+      },
+      "properties": {
+        "country": "Syria",
+        "ISO_A3": "SYR",
+        "year": "2019",
+        "emigrants": 6616000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.992541,
+          15.870032
+        ]
+      },
+      "properties": {
+        "country": "Thailand",
+        "ISO_A3": "THA",
+        "year": "2019",
+        "emigrants": 41450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.992541,
+          15.870032
+        ]
+      },
+      "properties": {
+        "country": "Thailand",
+        "ISO_A3": "THA",
+        "year": "2020",
+        "emigrants": 41320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.992541,
+          15.870032
+        ]
+      },
+      "properties": {
+        "country": "Thailand",
+        "ISO_A3": "THA",
+        "year": "2021",
+        "emigrants": 44000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.992541,
+          15.870032
+        ]
+      },
+      "properties": {
+        "country": "Thailand",
+        "ISO_A3": "THA",
+        "year": "2022",
+        "emigrants": 41680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.992541,
+          15.870032
+        ]
+      },
+      "properties": {
+        "country": "Thailand",
+        "ISO_A3": "THA",
+        "year": "2023",
+        "emigrants": 41019
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.824782,
+          8.619543
+        ]
+      },
+      "properties": {
+        "country": "Togo",
+        "ISO_A3": "TGO",
+        "year": "2022",
+        "emigrants": 7000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.243322,
+          38.963745
+        ]
+      },
+      "properties": {
+        "country": "Turkey",
+        "ISO_A3": "TUR",
+        "year": "2019",
+        "emigrants": 1099110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.243322,
+          38.963745
+        ]
+      },
+      "properties": {
+        "country": "Turkey",
+        "ISO_A3": "TUR",
+        "year": "2020",
+        "emigrants": 1143000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.243322,
+          38.963745
+        ]
+      },
+      "properties": {
+        "country": "Turkey",
+        "ISO_A3": "TUR",
+        "year": "2021",
+        "emigrants": 1110000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.243322,
+          38.963745
+        ]
+      },
+      "properties": {
+        "country": "Turkey",
+        "ISO_A3": "TUR",
+        "year": "2022",
+        "emigrants": 1099052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.243322,
+          38.963745
+        ]
+      },
+      "properties": {
+        "country": "Turkey",
+        "ISO_A3": "TUR",
+        "year": "2023",
+        "emigrants": 1921000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.290275,
+          1.373333
+        ]
+      },
+      "properties": {
+        "country": "Uganda",
+        "ISO_A3": "UGA",
+        "year": "2019",
+        "emigrants": 33100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.290275,
+          1.373333
+        ]
+      },
+      "properties": {
+        "country": "Uganda",
+        "ISO_A3": "UGA",
+        "year": "2020",
+        "emigrants": 34000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.290275,
+          1.373333
+        ]
+      },
+      "properties": {
+        "country": "Uganda",
+        "ISO_A3": "UGA",
+        "year": "2021",
+        "emigrants": 25600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.290275,
+          1.373333
+        ]
+      },
+      "properties": {
+        "country": "Uganda",
+        "ISO_A3": "UGA",
+        "year": "2022",
+        "emigrants": 37500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.290275,
+          1.373333
+        ]
+      },
+      "properties": {
+        "country": "Uganda",
+        "ISO_A3": "UGA",
+        "year": "2023",
+        "emigrants": 4950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.16558,
+          48.379433
+        ]
+      },
+      "properties": {
+        "country": "Ukraine",
+        "ISO_A3": "UKR",
+        "year": "2020",
+        "emigrants": 734240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.16558,
+          48.379433
+        ]
+      },
+      "properties": {
+        "country": "Ukraine",
+        "ISO_A3": "UKR",
+        "year": "2021",
+        "emigrants": 854012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.516388,
+          15.552727
+        ]
+      },
+      "properties": {
+        "country": "Yemen",
+        "ISO_A3": "YEM",
+        "year": "2019",
+        "emigrants": 3635380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.516388,
+          15.552727
+        ]
+      },
+      "properties": {
+        "country": "Yemen",
+        "ISO_A3": "YEM",
+        "year": "2020",
+        "emigrants": 3858000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.516388,
+          15.552727
+        ]
+      },
+      "properties": {
+        "country": "Yemen",
+        "ISO_A3": "YEM",
+        "year": "2021",
+        "emigrants": 4300000
+      }
+    }
+  ]
+}

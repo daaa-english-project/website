@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 10px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+#map {
+    height: 80vh;
+    width: 100%;
+    margin: 0 auto;
+}
+.info.legend {
+    background: white;
+    line-height: 1.5em;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.info.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+footer {
+    background: #f1f1f1;
+    padding: 10px 0;
+    font-size: 14px;
+}
+
+#space {
+    height: 10vh;
+    background-color: #333;
+}
+
+#year-slider-wrapper {
+    display: flex; /* Disposition horizontale */
+    gap: 20px; /* Espace entre les curseurs */
+    align-items: center; /* Aligne les éléments verticalement */
+}
+
+#year-slider-wrapper div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input[type="range"] {
+    width: 200px; /* Largeur des curseurs */
+    margin: 5px 0;
+}
+#migration-details {
+    text-align: left; /* Alignement du texte à gauche */
+    width: 90%; /* Prend 90% de la largeur de la page */
+    margin: 20px auto; /* Centre horizontalement la section */
+    line-height: 1.6; /* Améliore l'espacement entre les lignes */
+    font-size: 16px; /* Taille de police lisible */
+}
+
+#migration-details ul {
+    list-style-type: disc; /* Utilise des puces pour les listes */
+    margin-left: 20px; /* Indente les listes */
+    padding-left: 20px;
+}
+
+#migration-details a {
+    color: #4CAF50; /* Couleur des liens */
+    text-decoration: none;
+}
+
+#migration-details a:hover {
+    text-decoration: underline; /* Soulignement des liens au survol */
+}
